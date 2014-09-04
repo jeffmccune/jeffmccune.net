@@ -4,7 +4,7 @@ https://keybase.io/jeffmccune
 
 I hereby claim:
 
-  * I am an admin of http://jeffmccune.com
+  * I am an admin of http://jeffmccune.net
   * I am jeffmccune (https://keybase.io/jeffmccune) on keybase.
   * I have a public key with fingerprint 3C4D FC77 5D56 A49A 64CD  BE7A A8D0 1865 9619 0B44
 
@@ -20,7 +20,7 @@ To claim this, I am signing this object:
             "username": "jeffmccune"
         },
         "service": {
-            "hostname": "jeffmccune.com",
+            "hostname": "jeffmccune.net",
             "protocol": "http:"
         },
         "type": "web_service_binding",
